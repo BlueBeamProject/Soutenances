@@ -1,0 +1,78 @@
+*PRESENTATIONS*
+
+INTRO : (Samy)
+
+Idée de départ -> Jeu en 2D, dynamique, 16 bit
+Importance aux musique (gameplay rayman legend / Geometry dash)
+
+--------------------------------------------------------------------------------------------------------------
+SOMMAIRE : (Victor)
+
+Projet : contexte et scénario
+Réalisation : ce sur quoi on a taf pendant 3mois (hihi)
+Futur : ce que nous comptons faire pour les prochaines soutenances
+
+--------------------------------------------------------------------------------------------------------------
+HISTOIRE : (Joris)
+
+Epoque futuriste (2148) avancées technologiques soft
+Blue Corp créé par Garry Cage, Geoffroy Bezout, Karl Rotenberg et Captain Cook
+Allient à Dio Brando (milliardaire) pour sauver la planete de la polution
+Dio les trahirent pour creer une arme de destruction massive prendre le controle du monde
+Le BLUE BEAM
+On incarne 4 héros d'une milice résistance Alpa, Beta, Charlie et Delta
+
+--------------------------------------------------------------------------------------------------------------
+GAMEPLAY : (Stanley)
+
+Side scroller game comme mario ou Rayman Legends
+Graphismes 16 bits comparables à Celeste, meme mecanique de dash
+Items comme dans speed runners
+
+--------------------------------------------------------------------------------------------------------------
+667 STUDIO : (Samy)
+
+Samy -> Chef de projet, Physique/Sound Design
+Joris -> Designer, Graphismes/Physique
+Stanley -> Programmeur, Multi/Interfaces
+Victor -> Programmeur, Gameplay/Level Design
+
+--------------------------------------------------------------------------------------------------------------
+SPRITES JORIS :
+
+outils : Piskel (free online) / Photoshop
+Sprites caricatures de personnalités
+Animation
+
+--------------------------------------------------------------------------------------------------------------
+MULTI SITE INTERFACE STANLEY :
+
+Plusieurs manettes en local
+Site en hyperlink
+
+--------------------------------------------------------------------------------------------------------------
+PHYSIQUE SAMY :
+
+Scripts de jump, dash
+
+--------------------------------------------------------------------------------------------------------------
+GAMEPLAY VICTOR :
+
+Graphismes -> sprites créés par Joris mit bout à bout pour créer une map
+Level Design et Gameplay, faire des scripts pour des animations pour les levels
+
+--------------------------------------------------------------------------------------------------------------
+OBJECTIF : (Joris)
+
+Gameplay -> Dash, Attaque, Objet (armesm boost)
+Multijoueur -> Essayer de faire un niveau en multijoueur
+Graphismes -> Sprites d'items, de map, d'ennemis et plus d'animation pour plus de fluidité
+Level Design -> Faire au moins 4 niveaux fonctionnels
+
+--------------------------------------------------------------------------------------------------------------
+CONCLUSION : (Samy)
+
+Nous sommes très fièrs de ce que nous avons produits durant les premiers mois de créations du projet
+Il manque encore beaucoup -> Les levels ne sont pas fait car ils dépendent de tout le reste
+L'animation doit etre améliorée et du gameplay doit etre ajouté
+Nous avons tous prit en main l'outil Unity et seront plus productifs dans les prochains mois.
